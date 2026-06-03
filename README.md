@@ -33,3 +33,9 @@ This dataset is used for educational purposes and does not represent modern clin
 
 ## Author
 Tara Geoghan
+
+<img width="2400" height="1200" alt="age_distribution" src="https://github.com/user-attachments/assets/d85a7da0-f411-4280-a05b-29bfdbfb90a0" />
+
+<img width="2296" height="2046" alt="km_plot" src="https://github.com/user-attachments/assets/d6dd5068-97f1-4e0d-ad08-bf60cc7d48e1" />
+
+
